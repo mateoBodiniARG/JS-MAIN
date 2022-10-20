@@ -1,4 +1,4 @@
-# Protecto final Javascript
+# Projecto final Javascript
 👋 ***Hola!*** Aqui estare plasmando el proyecto final de "CoderHouse" en el curso de Javascript.
 Tengo pensado utilizar :
 - 🚀 HTML

@@ -18,9 +18,9 @@ function addProduct(e) {
 
 function readTheContent(product){
     const infoProduct = {
-        image: product.querySelector('div a img [src]'),
+        image: product.querySelector('.imagenProducto [src]'),
         title: product.querySelector('.titulo[textContent]'),
-        price: product.querySelector('div p [textContent]'),
+        price: product.querySelector('.priceProd [textContent]'),
         id: product.querySelector('span').getAttribute('data-id'),
         amount: 1
     } 
